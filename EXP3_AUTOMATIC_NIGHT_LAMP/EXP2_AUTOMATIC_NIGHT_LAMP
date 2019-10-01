@@ -1,6 +1,7 @@
 EXP2_AUTOMATIC_NIGHT_LAMP
 
 THEORY: 
+
 As per the circuit diagram, we have made a voltage divider circuit using LDR and 10k resistor. The voltage divider output is feed to
 the analog pin of the Arduino. 
 The analog Pin senses the voltage and gives some analog value to Arduino. The analog value changes according to the resistance of LDR.
