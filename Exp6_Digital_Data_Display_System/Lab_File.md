@@ -1,4 +1,4 @@
-# Programmable Digital Data Display System
+# EXPERIMENT 6 - Programmable Digital Data Display System
 
 
 ## Aim:
